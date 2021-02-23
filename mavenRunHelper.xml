@@ -28,6 +28,12 @@
             <Goal>
               <option name="commandLine" value="compile sonar:sonar -Dsonar.host.url=http://172.26.11.93:9000" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="clean" />
+            </Goal>
+            <Goal>
+              <option name="commandLine" value="test" />
+            </Goal>
           </list>
         </option>
       </Goals>
