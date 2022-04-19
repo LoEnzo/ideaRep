@@ -10,6 +10,10 @@
           <option name="url" value="http://git.cae.com" />
           <option name="userName" value="hjwu" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.gtp.x" />
+          <option name="userName" value="hjwu" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
