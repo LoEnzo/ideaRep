@@ -4,6 +4,7 @@
       <mapping pattern="EMDSTicketVoidController.java" type="PLAIN_TEXT" />
       <mapping pattern="Test" type="PLAIN_TEXT" />
       <mapping ext="jason" type="PLAIN_TEXT" />
+      <mapping ext="json" type="PLAIN_TEXT" />
       <mapping ext="aes" type="PLAIN_TEXT" />
       <mapping pattern="环境错误" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
