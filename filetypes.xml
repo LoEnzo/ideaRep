@@ -14,7 +14,6 @@
       <mapping ext="jason" type="PLAIN_TEXT" />
       <mapping ext="flow" type="PLAIN_TEXT" />
       <mapping pattern="环境错误" type="XML" />
-      <mapping ext="yaml" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />

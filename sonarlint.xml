@@ -1,5 +1,6 @@
 <application>
   <component name="SonarLintGlobalSettings">
+    <option name="autoTrigger" value="false" />
     <option name="rulesByKey">
       <map>
         <entry key="java:NoSonar">
@@ -90,6 +91,11 @@
         <entry key="java:S1160">
           <value>
             <Rule key="java:S1160" />
+          </value>
+        </entry>
+        <entry key="java:S1161">
+          <value>
+            <Rule active="false" key="java:S1161" />
           </value>
         </entry>
         <entry key="java:S1162">
@@ -242,11 +248,6 @@
             <Rule key="java:S1696" />
           </value>
         </entry>
-        <entry key="java:S1698">
-          <value>
-            <Rule key="java:S1698" />
-          </value>
-        </entry>
         <entry key="java:S1699">
           <value>
             <Rule key="java:S1699" />
@@ -270,6 +271,11 @@
         <entry key="java:S1821">
           <value>
             <Rule key="java:S1821" />
+          </value>
+        </entry>
+        <entry key="java:S1874">
+          <value>
+            <Rule active="false" key="java:S1874" />
           </value>
         </entry>
         <entry key="java:S1939">
@@ -372,6 +378,11 @@
             <Rule key="java:S2203" />
           </value>
         </entry>
+        <entry key="java:S2204">
+          <value>
+            <Rule active="false" key="java:S2204" />
+          </value>
+        </entry>
         <entry key="java:S2208">
           <value>
             <Rule key="java:S2208" />
@@ -432,6 +443,11 @@
             <Rule key="java:S2444" />
           </value>
         </entry>
+        <entry key="java:S2637">
+          <value>
+            <Rule active="false" key="java:S2637" />
+          </value>
+        </entry>
         <entry key="java:S2658">
           <value>
             <Rule key="java:S2658" />
@@ -455,6 +471,11 @@
         <entry key="java:S2701">
           <value>
             <Rule key="java:S2701" />
+          </value>
+        </entry>
+        <entry key="java:S2757">
+          <value>
+            <Rule active="false" key="java:S2757" />
           </value>
         </entry>
         <entry key="java:S2959">
@@ -557,6 +578,11 @@
             <Rule key="java:S3750" />
           </value>
         </entry>
+        <entry key="java:S3751">
+          <value>
+            <Rule active="false" key="java:S3751" />
+          </value>
+        </entry>
         <entry key="java:S3937">
           <value>
             <Rule key="java:S3937" />
@@ -587,14 +613,14 @@
             <Rule key="java:S4551" />
           </value>
         </entry>
-        <entry key="java:S4604">
-          <value>
-            <Rule key="java:S4604" />
-          </value>
-        </entry>
         <entry key="java:S4605">
           <value>
             <Rule key="java:S4605" />
+          </value>
+        </entry>
+        <entry key="java:S4682">
+          <value>
+            <Rule active="false" key="java:S4682" />
           </value>
         </entry>
         <entry key="java:S4926">
@@ -612,9 +638,19 @@
             <Rule key="java:S5194" />
           </value>
         </entry>
+        <entry key="java:S5301">
+          <value>
+            <Rule active="false" key="java:S5301" />
+          </value>
+        </entry>
         <entry key="java:S5612">
           <value>
             <Rule key="java:S5612" />
+          </value>
+        </entry>
+        <entry key="java:S5738">
+          <value>
+            <Rule active="false" key="java:S5738" />
           </value>
         </entry>
         <entry key="java:S5793">
@@ -689,6 +725,7 @@
       <Rule key="java:S1258" />
       <Rule key="java:S3437" />
       <Rule key="java:S1774" />
+      <Rule active="false" key="java:S5738" />
       <Rule key="java:S4926" />
       <Rule key="java:S1132" />
       <Rule key="java:S2196" />
@@ -696,15 +733,18 @@
       <Rule key="java:S3047" />
       <Rule key="java:S5867" />
       <Rule key="java:S818" />
+      <Rule active="false" key="java:S2757" />
       <Rule key="java:S3725" />
       <Rule key="java:S1641" />
       <Rule key="java:S1244" />
+      <Rule active="false" key="java:S2637" />
       <Rule key="java:S1120" />
       <Rule key="java:S5194" />
       <Rule key="java:S3052" />
       <Rule key="java:S4266" />
       <Rule key="java:S3578" />
       <Rule key="java:S1996" />
+      <Rule active="false" key="java:S1874" />
       <Rule key="java:S1194" />
       <Rule key="java:S6211" />
       <Rule key="java:S2250" />
@@ -723,16 +763,16 @@
       <Rule key="java:S3749" />
       <Rule key="java:S1188" />
       <Rule key="java:S2260" />
+      <Rule active="false" key="java:S4682" />
       <Rule key="java:S2141" />
       <Rule key="java:S2384" />
       <Rule key="java:S4288" />
       <Rule key="java:S2143" />
       <Rule key="java:S3750" />
+      <Rule active="false" key="java:S3751" />
       <Rule key="java:S2301" />
       <Rule key="java:S2148" />
       <Rule key="java:S1699" />
-      <Rule key="java:S4604" />
-      <Rule key="java:S1698" />
       <Rule key="java:S2701" />
       <Rule key="java:S1213" />
       <Rule key="java:S1696" />
@@ -747,6 +787,7 @@
       <Rule key="java:S4174" />
       <Rule key="java:S3242" />
       <Rule key="java:S118" />
+      <Rule active="false" key="java:S5301" />
       <Rule key="java:S3366" />
       <Rule key="java:S2156" />
       <Rule key="java:S1449" />
@@ -757,6 +798,7 @@
       <Rule key="java:S1166" />
       <Rule key="java:S2959" />
       <Rule key="java:S1162" />
+      <Rule active="false" key="java:S1161" />
       <Rule key="java:S1160" />
       <Rule key="java:S5793" />
       <Rule key="java:S2162" />
@@ -774,6 +816,7 @@
       <Rule key="java:S2325" />
       <Rule key="java:S3414" />
       <Rule key="java:S104" />
+      <Rule active="false" key="java:S2204" />
       <Rule key="java:S1314" />
       <Rule key="java:S3658" />
       <Rule key="java:S1312" />
