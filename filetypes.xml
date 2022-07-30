@@ -13,6 +13,7 @@
       <mapping ext="aes" type="PLAIN_TEXT" />
       <mapping ext="jason" type="PLAIN_TEXT" />
       <mapping ext="flow" type="PLAIN_TEXT" />
+      <mapping ext="text" type="PLAIN_TEXT" />
       <mapping pattern="环境错误" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
