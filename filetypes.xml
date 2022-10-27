@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping ext="json" type="JSON5" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="ddl" type="OdpsQL" />
@@ -9,7 +10,6 @@
       <mapping ext="q" type="OdpsQL" />
       <mapping pattern="EMDSTicketVoidController.java" type="PLAIN_TEXT" />
       <mapping pattern="Test" type="PLAIN_TEXT" />
-      <mapping ext="json" type="PLAIN_TEXT" />
       <mapping ext="aes" type="PLAIN_TEXT" />
       <mapping ext="jason" type="PLAIN_TEXT" />
       <mapping ext="flow" type="PLAIN_TEXT" />
@@ -20,6 +20,7 @@
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="json" approved="true" type="JSON" />
+      <removed_mapping ext="json" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="psd" approved="true" type="Image" />
